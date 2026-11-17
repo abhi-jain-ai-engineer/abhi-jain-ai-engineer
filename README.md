@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/castle.webp" width="100%" alt="A floating castle at dusk" />
+<img src="assets/castle.gif" width="100%" alt="A floating castle at dusk, slowly drifting through fog" />
 
 <br/>
 
@@ -97,7 +97,7 @@ Academician and AI practitioner with **10 years of teaching and training experie
 ---
 
 <div align="center">
-<img src="assets/owl.webp" width="260" alt="An owl messenger carrying a letter" />
+<img src="assets/owl.gif" width="320" alt="An owl delivering a sealed letter" />
 
 ### 📨 The Courier's Flight
 
