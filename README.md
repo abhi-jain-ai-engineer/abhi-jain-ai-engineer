@@ -74,10 +74,10 @@ Academician and AI practitioner with **10 years of teaching and training experie
 
 <div align="center">
 
-<a href="https://github.com/abhi-jain-ai-engineer/abhi-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-jain-ai-engineer&repo=abhi-portfolio&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&icon_color=C9A227&border_color=2B2B40" /></a>
-<a href="https://github.com/abhi-jain-ai-engineer/Data-Transcript-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-jain-ai-engineer&repo=Data-Transcript-Analysis&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&icon_color=C9A227&border_color=2B2B40" /></a>
-<a href="https://github.com/abhi-jain-ai-engineer/RESUME-SCREENING"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-jain-ai-engineer&repo=RESUME-SCREENING&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&icon_color=C9A227&border_color=2B2B40" /></a>
-<a href="https://github.com/abhi-jain-ai-engineer/ai-simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi-jain-ai-engineer&repo=ai-simulator&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&icon_color=C9A227&border_color=2B2B40" /></a>
+<a href="https://github.com/abhi-jain-ai-engineer/abhi-portfolio"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abhi-jain-ai-engineer&repo=abhi-portfolio&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&icon_color=C9A227&border_color=2B2B40" /></a>
+<a href="https://github.com/abhi-jain-ai-engineer/Data-Transcript-Analysis"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abhi-jain-ai-engineer&repo=Data-Transcript-Analysis&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&icon_color=C9A227&border_color=2B2B40" /></a>
+<a href="https://github.com/abhi-jain-ai-engineer/RESUME-SCREENING"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abhi-jain-ai-engineer&repo=RESUME-SCREENING&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&icon_color=C9A227&border_color=2B2B40" /></a>
+<a href="https://github.com/abhi-jain-ai-engineer/ai-simulator"><img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=abhi-jain-ai-engineer&repo=ai-simulator&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&icon_color=C9A227&border_color=2B2B40" /></a>
 
 </div>
 
@@ -87,8 +87,8 @@ Academician and AI practitioner with **10 years of teaching and training experie
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhi-jain-ai-engineer&show_icons=true&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&icon_color=C9A227&border_color=2B2B40&hide_border=false" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-jain-ai-engineer&layout=compact&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&border_color=2B2B40" alt="Top languages" />
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=abhi-jain-ai-engineer&show_icons=true&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&icon_color=C9A227&border_color=2B2B40&hide_border=false" alt="GitHub stats" />
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=abhi-jain-ai-engineer&layout=compact&bg_color=0A0D16&title_color=ECCB6C&text_color=F1ECE0&border_color=2B2B40" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-jain-ai-engineer&background=0A0D16&ring=C9A227&fire=ECCB6C&currStreakLabel=ECCB6C&sideLabels=F1ECE0&currStreakNum=F1ECE0&sideNums=F1ECE0&dates=8a8a99&border=2B2B40" alt="GitHub streak" />
 
